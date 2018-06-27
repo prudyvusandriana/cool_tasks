@@ -2,8 +2,8 @@ package usersCRUD_test
 
 import (
 	"bytes"
-	"github.com/Nastya-Kruglikova/cool_tasks/src/models"
-	"github.com/Nastya-Kruglikova/cool_tasks/src/services"
+	"github.com/prudyvusandriana/cool_tasks/src/models"
+	"github.com/prudyvusandriana/cool_tasks/src/services"
 	"github.com/satori/go.uuid"
 	"net/http"
 	"net/http/httptest"
